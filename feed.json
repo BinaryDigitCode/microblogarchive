@@ -1,16 +1,60 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "B's Micro Blog",
+	"title": "BinaryDigit's Micro Blog",
 	"icon": "https://micro.blog/BinaryDigit/avatar.jpg",
 	"home_page_url": "https://blog.binarydigit.cafe/",
 	"feed_url": "https://blog.binarydigit.cafe/feed.json",
 	"items": [
 		
 			{
+				"id": "http://binarydigit.micro.blog/2024/03/19/reflection-and-talking.html",
+				"title": "Reflection and Talking Out Loud",
+				"content_html": "<p>I posted the question on my alt Mastodon account <a href=\"https://social.lol/@liz/112117794617143331\">@Liz</a> asking folks if have done a career pivot from IT to something creative. It&rsquo;s the part of myself I&rsquo;ve been trying to figure out since 2017, when I left my crushing-soul-burnout-got-me-into-the-ER job as a systems engineer. In 2017 I took a coding bootcamp to freshen up my coding skills and become a web dev (I loved it but didn&rsquo;t get a job doing it), and then in 2022 I did a game dev program with <a href=\"https://www.codecoven.co/\">Code Coven</a>, which was <em>awesome</em>, and I should have kept going with it (why yes that is me on the homepage testimonial). 💜\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>I should have kept on, because I still tinker with code and still love games, and want to get a new job, doing something <em>not</em> corporate or boring or <em>feeling the need a reason to even make that alternate account to begin with</em>. 💢 What I do keep doing is having fun with streaming, and learned how to DJ (even if it&rsquo;s just transitions), because I love music that makes you move, and dance, and it gives me feeling again, and makes me feel alive when I&rsquo;m entertaining people on a screen. I play games on a screen to an audience because it&rsquo;s fun to interact with others when discovering the game, or being competitive, or hearing about people&rsquo;s lives. I love streaming because of so many reasons and because of the interaction, even if it&rsquo;s para-social. I met my partner on Twitch, which is the nerdiest thing ever, because of course I&rsquo;d find some other nerd doing what he loves too. It brought us together because it&rsquo;s a hobby that got us through some of the down times in our lives, and now is part of the happiest moment of my life.</p>\n<p>This post is just a reflection - I&rsquo;ve opened up my old notion.so notebook and miss the software. I found the folder called &ldquo;archive&rdquo; where I kept my &ldquo;game making journal notes&rdquo;. I miss learning, I try to do it every couple of years. I always need to learn, with people, have a conversation, even though I&rsquo;m an introverted nerd on the internet. I just need to keep finding other nerds on the internet and IRL that makes me to a place where I can exchange something I do for enough money to pay the bills and keep me going. The other day I was ranting to my partner about my imposter syndrome and how I was frustrated that I didn&rsquo;t give myself permission to sit down and learn and create things, and yet I have all the time to do so. He looked at me and with the softest voice said&hellip;&ldquo;You can still do it now&rdquo;. 😭💓</p>\n<p>Thanks for reading. I&rsquo;d love to hear your experiences via this micro blog, mastodon, or email. 💖</p>\n",
+				"content_text": "I posted the question on my alt Mastodon account [@Liz](https://social.lol/@liz/112117794617143331) asking folks if have done a career pivot from IT to something creative. It's the part of myself I've been trying to figure out since 2017, when I left my crushing-soul-burnout-got-me-into-the-ER job as a systems engineer. In 2017 I took a coding bootcamp to freshen up my coding skills and become a web dev (I loved it but didn't get a job doing it), and then in 2022 I did a game dev program with [Code Coven](https://www.codecoven.co/), which was _awesome_, and I should have kept going with it (why yes that is me on the homepage testimonial). 💜\n<a href=\"https://www.codecoven.co/\"><img src=\"uploads/2024/codecoven-testimonial.png\" width=\"305\" height=\"173\" alt=\"Liz Testimonial for Code Coven Game Dev Program\"></a>\n\nI should have kept on, because I still tinker with code and still love games, and want to get a new job, doing something *not* corporate or boring or _feeling the need a reason to even make that alternate account to begin with_. 💢 What I do keep doing is having fun with streaming, and learned how to DJ (even if it's just transitions), because I love music that makes you move, and dance, and it gives me feeling again, and makes me feel alive when I'm entertaining people on a screen. I play games on a screen to an audience because it's fun to interact with others when discovering the game, or being competitive, or hearing about people's lives. I love streaming because of so many reasons and because of the interaction, even if it's para-social. I met my partner on Twitch, which is the nerdiest thing ever, because of course I'd find some other nerd doing what he loves too. It brought us together because it's a hobby that got us through some of the down times in our lives, and now is part of the happiest moment of my life.\n\nThis post is just a reflection - I've opened up my old notion.so notebook and miss the software. I found the folder called \"archive\" where I kept my \"game making journal notes\". I miss learning, I try to do it every couple of years. I always need to learn, with people, have a conversation, even though I'm an introverted nerd on the internet. I just need to keep finding other nerds on the internet and IRL that makes me to a place where I can exchange something I do for enough money to pay the bills and keep me going. The other day I was ranting to my partner about my imposter syndrome and how I was frustrated that I didn't give myself permission to sit down and learn and create things, and yet I have all the time to do so. He looked at me and with the softest voice said...\"You can still do it now\". 😭💓\n\nThanks for reading. I'd love to hear your experiences via this micro blog, mastodon, or email. 💖\n\n",
+				"date_published": "2024-03-19T21:51:58-04:00",
+				"url": "https://blog.binarydigit.cafe/2024/03/19/reflection-and-talking.html",
+				"tags": ["photos","reflection"]
+			},
+			{
+				"id": "http://binarydigit.micro.blog/2024/03/18/i-hate-falling.html",
+				
+				"content_html": "<p>I hate falling asleep around 7pm because I wake up around 10pm and now want to enjoy the night…but my body really needs rest. 😭</p>\n",
+				"content_text": "I hate falling asleep around 7pm because I wake up around 10pm and now want to enjoy the night…but my body really needs rest. 😭\n",
+				"date_published": "2024-03-18T21:57:22-04:00",
+				"url": "https://blog.binarydigit.cafe/2024/03/18/i-hate-falling.html"
+			},
+			{
+				"id": "http://binarydigit.micro.blog/2024/03/17/my-blood-lab.html",
+				
+				"content_html": "<p>My blood lab results came back - now the &ldquo;bad&rdquo; cholesterol is higher than normal levels. I&rsquo;m honestly not surprised given the fatty food I tend to eat. I need to be better even more now. The A1C is slightly lower but not at safe levels yet. I should make a wellness and recipe foodie blog. Hmm.</p>\n",
+				"content_text": "My blood lab results came back - now the \"bad\" cholesterol is higher than normal levels. I'm honestly not surprised given the fatty food I tend to eat. I need to be better even more now. The A1C is slightly lower but not at safe levels yet. I should make a wellness and recipe foodie blog. Hmm.\n",
+				"date_published": "2024-03-17T11:26:33-04:00",
+				"url": "https://blog.binarydigit.cafe/2024/03/17/my-blood-lab.html",
+				"tags": ["health"]
+			},
+			{
+				"id": "http://binarydigit.micro.blog/2024/03/15/micro-blog-premium.html",
+				"title": "Micro Blog Premium Perhaps?",
+				"content_html": "<p>I&rsquo;m debating on upgrading my micro.blog plan to premium so I can make a separate blog site just for Twitch. This way I can dedicate a domain for streaming and social media cross posting, so only those interested in that can keep up to date, then keep my main micro blog for life things, nerdy web stuff, travel, photos, etc. Often times I don&rsquo;t want to spam my websites with Twitch stuff because it&rsquo;s pretty niche and only other community members around Twitch would want to know about it.</p>\n<p>Does anyone using multiple micro blogs here? What is your experience?</p>\n",
+				"content_text": "I'm debating on upgrading my micro.blog plan to premium so I can make a separate blog site just for Twitch. This way I can dedicate a domain for streaming and social media cross posting, so only those interested in that can keep up to date, then keep my main micro blog for life things, nerdy web stuff, travel, photos, etc. Often times I don't want to spam my websites with Twitch stuff because it's pretty niche and only other community members around Twitch would want to know about it.  \r\n\r\nDoes anyone using multiple micro blogs here? What is your experience?\n",
+				"date_published": "2024-03-15T22:06:13-04:00",
+				"url": "https://blog.binarydigit.cafe/2024/03/15/micro-blog-premium.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://binarydigit.micro.blog/2024/03/14/pixel.html",
+				
+				"content_html": "<p>Pixel</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Pixel \n\n<img src=\"uploads/2024/61dd1db757.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-03-14T19:00:57-04:00",
+				"url": "https://blog.binarydigit.cafe/2024/03/14/pixel.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://binarydigit.micro.blog/2024/03/12/we-did-a.html",
 				
 				"content_html": "<p>We did a stream from our visit to the zoo today! It was a great experiment and turned out way better than expected :D Happy birthday KilobyteKeith 💙 🎂 🎉</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We did a stream from our visit to the zoo today! It was a great experiment and turned out way better than expected :D Happy birthday KilobyteKeith 💙 🎂 🎉\n\n<img src=\"uploads/2024/zoostream.png\" width=\"600\" height=\"407\" alt=\"\">\n",
+				"content_text": "We did a stream from our visit to the zoo today! It was a great experiment and turned out way better than expected :D Happy birthday KilobyteKeith 💙 🎂 🎉\n\n<img src=\"https://blog.binarydigit.cafe/uploads/2024/zoostream.png\" width=\"600\" height=\"407\" alt=\"\">\n",
 				"date_published": "2024-03-12T15:56:48-04:00",
 				"url": "https://blog.binarydigit.cafe/2024/03/12/we-did-a.html",
 				"tags": ["photos"]
@@ -19,7 +63,7 @@
 				"id": "http://binarydigit.micro.blog/2024/03/06/trying-out-bluesky.html",
 				
 				"content_html": "<p>Trying out Bluesky again since it’s been more than a year when I first tried it (but didn’t like it) and I’m curious who’s on there now. So far I am enjoying the photography, gaming and game dev feed as its folks actually posting photos or taking about their projects which is so great.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Trying out Bluesky again since it’s been more than a year when I first tried it (but didn’t like it) and I’m curious who’s on there now. So far I am enjoying the photography, gaming and game dev feed as its folks actually posting photos or taking about their projects which is so great.\n\n<img src=\"uploads/2024/b6722f877b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Trying out Bluesky again since it’s been more than a year when I first tried it (but didn’t like it) and I’m curious who’s on there now. So far I am enjoying the photography, gaming and game dev feed as its folks actually posting photos or taking about their projects which is so great.\n\n<img src=\"https://blog.binarydigit.cafe/uploads/2024/b6722f877b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-03-06T21:47:14-04:00",
 				"url": "https://blog.binarydigit.cafe/2024/03/06/trying-out-bluesky.html",
 				"tags": ["photos"]
@@ -28,7 +72,7 @@
 				"id": "http://binarydigit.micro.blog/2024/03/04/its-a-start.html",
 				
 				"content_html": "<p>It’s a start! It’s 71F and sunny today, I needed to breathe some air and walk 💙🚶🏽‍♀️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s a start! It’s 71F and sunny today, I needed to breathe some air and walk 💙🚶🏽‍♀️\n\n<img src=\"uploads/2024/90a78927d0.jpg\" width=\"600\" height=\"503\" alt=\"\">\n",
+				"content_text": "It’s a start! It’s 71F and sunny today, I needed to breathe some air and walk 💙🚶🏽‍♀️\n\n<img src=\"https://blog.binarydigit.cafe/uploads/2024/90a78927d0.jpg\" width=\"600\" height=\"503\" alt=\"\">\n",
 				"date_published": "2024-03-04T18:17:28-04:00",
 				"url": "https://blog.binarydigit.cafe/2024/03/04/its-a-start.html",
 				"tags": ["photos","goals"]
@@ -37,7 +81,7 @@
 				"id": "http://binarydigit.micro.blog/2024/03/03/march-goals-trying.html",
 				
 				"content_html": "<p>March Goals</p>\n<ul>\n<li>\n<p>Trying to post a photo a day in March.</p>\n</li>\n<li>\n<p>I need to get back into streaming.</p>\n</li>\n<li>\n<p>Testing Gluon by <a href=\"https://micro.blog/vincent\">@vincent</a> and it’s awesome!</p>\n</li>\n</ul>\n<!-- raw HTML omitted -->\n",
-				"content_text": "March Goals\n\n- Trying to post a photo a day in March. \n\n- I need to get back into streaming.\n\n- Testing Gluon by [@vincent](https://micro.blog/vincent) and it’s awesome! \n\n<img src=\"uploads/2024/c0a21323d3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "March Goals\n\n- Trying to post a photo a day in March. \n\n- I need to get back into streaming.\n\n- Testing Gluon by [@vincent](https://micro.blog/vincent) and it’s awesome! \n\n<img src=\"https://blog.binarydigit.cafe/uploads/2024/c0a21323d3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-03-03T22:19:05-04:00",
 				"url": "https://blog.binarydigit.cafe/2024/03/03/march-goals-trying.html",
 				"tags": ["photos"]
@@ -46,7 +90,7 @@
 				"id": "http://binarydigit.micro.blog/2024/03/03/sketching.html",
 				"title": "Sketching",
 				"content_html": "<p>The other day I realized how much I miss using my hands and creating anything, such as drawing or writing in a journal. I charged up my old iPad, bought a little stand for it on Amazon, and let my Apple Pencil glide. I usually prefer the texture of heavy gsm paper and markers, but I&rsquo;d love to practice using my iPad, and get good enough to stop the shaky hand thing that you get when your muscles aren&rsquo;t used to drawing. I had bought <a href=\"https://keshart.in/drawing-camp/\">Kesh&rsquo;s drawing camp</a> because of an awesome deal over two years ago but never really started it! Let&rsquo;s see if I can put in 20 minutes a day to do it :D</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The other day I realized how much I miss using my hands and creating anything, such as drawing or writing in a journal. I charged up my old iPad, bought a little stand for it on Amazon, and let my Apple Pencil glide. I usually prefer the texture of heavy gsm paper and markers, but I'd love to practice using my iPad, and get good enough to stop the shaky hand thing that you get when your muscles aren't used to drawing. I had bought [Kesh's drawing camp](https://keshart.in/drawing-camp/) because of an awesome deal over two years ago but never really started it! Let's see if I can put in 20 minutes a day to do it :D\n\n<img src=\"uploads/2024/test-drawing.png\" width=\"600\" height=\"331\" alt=\"\">\n",
+				"content_text": "The other day I realized how much I miss using my hands and creating anything, such as drawing or writing in a journal. I charged up my old iPad, bought a little stand for it on Amazon, and let my Apple Pencil glide. I usually prefer the texture of heavy gsm paper and markers, but I'd love to practice using my iPad, and get good enough to stop the shaky hand thing that you get when your muscles aren't used to drawing. I had bought [Kesh's drawing camp](https://keshart.in/drawing-camp/) because of an awesome deal over two years ago but never really started it! Let's see if I can put in 20 minutes a day to do it :D\n\n<img src=\"https://blog.binarydigit.cafe/uploads/2024/test-drawing.png\" width=\"600\" height=\"331\" alt=\"\">\n",
 				"date_published": "2024-03-03T11:36:23-04:00",
 				"url": "https://blog.binarydigit.cafe/2024/03/03/sketching.html"
 			},
