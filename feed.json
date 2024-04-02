@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://binarydigit.micro.blog/2024/03/28/im-very-grateful.html",
+				
+				"content_html": "<p>I&rsquo;m very grateful to have a 3 day weekend! Time for some CS2</p>\n",
+				"content_text": "I'm very grateful to have a 3 day weekend! Time for some CS2 \n",
+				"date_published": "2024-03-28T21:58:57-04:00",
+				"url": "https://blog.binarydigit.cafe/2024/03/28/im-very-grateful.html"
+			},
+			{
 				"id": "http://binarydigit.micro.blog/2024/03/27/i-made-a.html",
 				
 				"content_html": "<p>I made a theme for omg.lol profile page using Nordtheme.com 🥰</p>\n<p><a href=\"https://home.omg.lol/address/binarydigit/web/themes/nord-winter\">home.omg.lol/address/b&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
